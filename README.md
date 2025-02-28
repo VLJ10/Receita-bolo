@@ -12,4 +12,4 @@ Primeira atividade criando uma página web.
 * Markdown
 
 ## Autor
-[Vinicius Julio]()
+[Vinicius J]()
